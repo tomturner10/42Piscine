@@ -1,0 +1,6 @@
+Credentials cache: API:36A70323-A626-4861-8213-1C91F430D612
+        Principal: tturner@42ADEL.ORG.AU
+
+  Issued                Expires               Principal
+Jun 26 12:44:40 2021  Jun 26 22:44:40 2021  krbtgt/42ADEL.ORG.AU@42ADEL.ORG.AU
+Jun 26 12:44:43 2021  Jun 26 22:44:40 2021  HTTP/student-storage.42adel.org.au@42ADEL.ORG.AU
